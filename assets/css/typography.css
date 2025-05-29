@@ -1,0 +1,55 @@
+h1.anchor, h2.anchor, h3.anchor, h4.anchor {
+  padding-top: 80px;
+  margin-top: -80px;
+}
+
+p{
+  text-align: justify;
+}
+
+.navbar-brand{
+  font-family: "Newsreader", monospace;
+  font-size: 1.50em;
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+}
+
+.fancy{
+  font-family: "Newsreader", monospace;
+  font-weight: 800;
+  font-style: italic;
+  font-size: 6.00em;
+}
+
+.fancy i {
+  font-size: 0.50em;
+}
+
+.lead {
+  font-family: "Newsreader", monospace;
+  font-size: 3.00em;
+}
+
+.fa-bolt-lightning {
+  font-size: 8.00em;
+}
+
+.giant{
+  font-size: 3.00em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 900;
+}
+
+.popover div.small {
+  word-break: break-all;
+}
+
+.popover > .arrow {
+  visibility: hidden;
+}
+
+code {
+  font-size: 80%;
+}
