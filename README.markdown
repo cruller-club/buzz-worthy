@@ -1,3 +1,3 @@
 # Buzz-Worthy
 
-"I'm in the coffee bzzz."
+We're in the coffee bzzzzz.

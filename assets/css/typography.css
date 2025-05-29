@@ -4,6 +4,7 @@ h1.anchor, h2.anchor, h3.anchor, h4.anchor {
 }
 
 p{
+  font-family: "Newsreader", monospace;
   text-align: justify;
 }
 
