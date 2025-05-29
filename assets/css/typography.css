@@ -19,7 +19,7 @@ p{
   font-family: "Newsreader", monospace;
   font-weight: 800;
   font-style: italic;
-  font-size: 6.00em;
+  font-size: 5.00em;
 }
 
 .fancy i {
@@ -28,11 +28,11 @@ p{
 
 .lead {
   font-family: "Newsreader", monospace;
-  font-size: 3.00em;
+  font-size: 2.50em;
 }
 
 .fa-bolt-lightning {
-  font-size: 8.00em;
+  font-size: 3.00em;
 }
 
 .giant{
